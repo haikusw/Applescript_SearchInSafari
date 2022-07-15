@@ -1,3 +1,7 @@
+-- Copyright © 2022 Geek & Dad, LLC
+-- All Rights Reserved
+-- Permission hereby granted for Personal Non-Commercial use.
+
 set reply to ¬
 	display dialog "Enter the string to search for:" default answer "" buttons {"Cancel", "Search"} default button "Search" with title "Safari All Window Text Search" giving up after 30
 log reply
