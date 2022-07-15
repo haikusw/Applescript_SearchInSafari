@@ -1,6 +1,6 @@
 # Applescript_SearchInSafari
 
-An AppleScript to search Safari tabs in all windows - **except windows minimized to the Dock**
+An AppleScript to search Safari tabs in all windows - *except windows minimized to the Dock*
 
 # Installation
 
@@ -17,3 +17,6 @@ Alternatively, or in addition, setup Alfred or similar with a hot key to invoke 
 # Notes
 - Only tested on macOS 12.4 and Safari 15.5
 
+# License
+
+Free to use for personal non-commercial use.
