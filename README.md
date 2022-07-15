@@ -1,6 +1,6 @@
 # Search In Safari AppleScript
 
-An AppleScript to search Safari tabs in all windows - *except windows minimized to the Dock*
+An AppleScript to search the *textual content* in all Safari tabs in all windows - *except windows minimized to the Dock*
 
 # Installation
 
